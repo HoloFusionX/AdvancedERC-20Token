@@ -19,7 +19,7 @@ Welcome to the AdvancedERC-20Token repository! This is not your ordinary ERC-20 
 4. Interact with the contract using the provided utilities.
 
 ## Getting Started
-For an in-depth guide on creating and deploying your custom AdvancedERC-20Token, refer to our comprehensive tutorial [here](link_to_tutorial).
+For an in-depth guide on creating and deploying your custom AdvancedERC-20Token, refer to our comprehensive tutorial [here](https://holofusionx.com/2023/08/step-by-step-guide-part2-deployment-and-utilization-of-advancederc-20token).
 
 ## Contributing
 We welcome contributions from the community! If you have ideas for enhancements or new features, feel free to open an issue or submit a pull request.
