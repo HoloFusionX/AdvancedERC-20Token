@@ -25,7 +25,7 @@ For an in-depth guide on creating and deploying your custom AdvancedERC-20Token,
 We welcome contributions from the community! If you have ideas for enhancements or new features, feel free to open an issue or submit a pull request.
 
 ## License
-This codebase is open-source and available under the [MIT License](link_to_license).
+This codebase is open-source and available under the [MIT License](opensource.org).
 
 ## Contact
 For questions, feedback, or collaborations, please reach out to us at [ceo@holofusionx.com](mailto:ceo@holofusionx.com).
